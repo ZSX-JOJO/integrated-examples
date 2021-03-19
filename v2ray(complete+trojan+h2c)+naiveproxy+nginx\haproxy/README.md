@@ -18,7 +18,7 @@
 
 1、v2ray v4.31.0 版本及以后才支持 trojan 协议。
 
-2、caddy2 等于或大于 v2.2.0-rc.1 版才支持 h2c proxy，即支持 v2ray 的 h2（http/2）反向代理。
+2、caddy2 等于或大于 v2.2.0-rc.1 版才支持 h2c proxy，即支持 v2ray（Xray） 的 h2c 反向代理。
 
 3、caddy2 等于或大于 v2.3.0 版才支持 Caddyfile 配置开启 h2c server。
 
