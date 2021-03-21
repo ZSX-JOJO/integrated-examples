@@ -45,7 +45,7 @@
 2. [v2ray(complete+trojan)+nginx](https://github.com/lxhao61/integrated-examples/tree/master/v2ray(complete%2Btrojan)%2Bnginx) （加trojan的Xray或v2ray综合应用及nginx SNI共用端口。）
 #### &emsp;以Xray或v2ray为主、caddy2(naiveproxy)为辅的综合应用。
 1. [v2ray(complete+h2c-tcp)+caddy2\naiveproxy](https://github.com/lxhao61/integrated-examples/tree/master/v2ray(complete%2Bh2c-tcp)%2Bcaddy2%5Cnaiveproxy) （caddy2反向代理ws与h2的综合应用，或加naiveproxy应用。）
-2. [v2ray(complete+h2c&grpc-tcp)+caddy2\naiveproxy(https://github.com/lxhao61/integrated-examples/tree/master/v2ray(complete%2Bh2c%26grpc-tcp)%2Bcaddy2%5Cnaiveproxy) （caddy2反向代理ws、h2、grpc的综合应用，或加naiveproxy应用。）
+2. [v2ray(complete+h2c&grpc-tcp)+caddy2\naiveproxy](https://github.com/lxhao61/integrated-examples/tree/master/v2ray(complete%2Bh2c%26grpc-tcp)%2Bcaddy2%5Cnaiveproxy) （caddy2反向代理ws、h2、grpc的综合应用，或加naiveproxy应用。）
 ---
 1. [v2ray(vless+tcp&ws+tls)+caddy2\naiveproxy](https://github.com/lxhao61/integrated-examples/tree/master/v2ray(vless%2Btcp%26ws%2Btls)%2Bcaddy2%5Cnaiveproxy)（vless的tcp与ws应用，web回落给caddy2，或加naiveproxy应用。）
 2. [v2ray(complete+h2c)+caddy2\naiveproxy](https://github.com/lxhao61/integrated-examples/tree/master/v2ray(complete%2Bh2c)%2Bcaddy2%5Cnaiveproxy) （Xray或v2ray综合应用加反向代理h2应用，或加naiveproxy应用。）
