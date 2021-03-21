@@ -74,7 +74,7 @@
           },
           {
             "match": [{
-              "protocol": "grpc" //与本机v2ray grpc对应,分流出grpc。
+              "protocol": "grpc" //与本机vless+grpc对应,分流出grpc。
             }],
             "handle": [{
               "handler": "reverse_proxy",
